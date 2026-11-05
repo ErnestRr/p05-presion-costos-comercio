@@ -1,0 +1,17 @@
+﻿codigo,actividad,personal,ingresos_mdp,remuneraciones_pct,excedente_pct,abs_salarios_1pct,abs_mercancias_1pct,remuneraciones_pct_2019,cambio_remuneraciones_pp,remuneracion_media_var_12m_pct,productividad_var_12m_pct,costo_laboral_unitario_var_12m_pct,costo_laboral_unitario_vs_2018_pct,presion_laboral_pp_ventas,presion_laboral_pct_excedente,estructura_expuesta,presion_observada,cuadrante
+43,Comercio al por mayor (total),1804075.0,7616442.159,3.2976,17.6542,0.1868,4.0319,2.3544,0.9432,0.6677,4.9174,-4.1173,48.0044,-0.1358,-0.7691,False,False,"poco expuesta, sin presión"
+431,"Mayoreo de abarrotes, alimentos, bebidas y tabaco",700364.0,2299321.525,4.4159,24.0514,0.1836,2.6111,4.5386,-0.1227,2.0337,-0.8729,2.7847,27.125,0.123,0.5113,False,True,"poco expuesta, con presión"
+432,Mayoreo de textiles y calzado,47586.0,107971.042,4.676,21.0627,0.222,3.0441,2.8644,1.8116,1.42,-4.4769,6.059,63.9324,0.2833,1.3451,False,True,"poco expuesta, con presión"
+433,"Mayoreo de farmacia, perfumería y electrodomésticos",115092.0,422630.608,3.851,18.7334,0.2056,3.6051,2.2734,1.5776,1.9981,8.0501,-5.6368,-3.7567,-0.2171,-1.1588,False,False,"poco expuesta, sin presión"
+434,Mayoreo de materias primas y materiales,584424.0,3639267.08,2.0042,11.2597,0.178,7.1399,1.3613,0.6429,-1.1833,8.1995,-8.4663,90.7492,-0.1697,-1.507,False,False,"poco expuesta, sin presión"
+435,Mayoreo de maquinaria y equipo,290679.0,964174.971,4.9741,25.7639,0.1931,2.2835,3.3591,1.615,3.1893,9.2702,-5.7252,2.0541,-0.2848,-1.1053,False,False,"poco expuesta, sin presión"
+436,Mayoreo de camiones y refacciones,60841.0,180289.309,3.8281,16.9227,0.2262,4.2529,4.1349,-0.3068,2.234,-1.8378,3.9642,46.1891,0.1518,0.8967,True,True,expuesta y con presión
+46,Comercio al por menor (total),6840541.0,8711913.499,5.5965,18.4979,0.3025,3.6758,3.0406,2.5559,5.5941,2.5588,3.0545,20.5412,0.1709,0.9241,True,True,expuesta y con presión
+461,"Menudeo de abarrotes, alimentos y bebidas",2276242.0,1252906.632,4.3387,27.9781,0.1551,2.188,3.552,0.7867,12.9517,-2.3446,15.9215,53.0969,0.6908,2.4691,False,True,"poco expuesta, con presión"
+462,Autoservicio y tiendas departamentales,1015559.0,2557489.415,6.696,14.2111,0.4712,4.9878,2.1935,4.5025,2.1018,-1.2871,3.4585,36.2251,0.2316,1.6296,True,True,expuesta y con presión
+463,"Menudeo de textiles, ropa y calzado",668572.0,430093.161,8.0067,23.7503,0.3371,2.2958,5.0766,2.9301,5.8131,5.8475,-0.6175,-25.2683,-0.0494,-0.2082,True,False,"expuesta, sin presión reciente"
+464,Menudeo de salud y cuidado personal,442556.0,439265.816,9.6785,18.2857,0.5293,3.4769,6.0847,3.5939,4.2145,4.9536,-0.7077,9.06,-0.0685,-0.3746,True,False,"expuesta, sin presión reciente"
+465,"Menudeo de papelería, esparcimiento y otros",720874.0,395980.244,7.6359,22.8249,0.3345,2.5263,4.5149,3.121,7.3737,3.1148,4.3773,7.862,0.3342,1.4644,True,True,expuesta y con presión
+466,Menudeo de enseres domésticos y mobiliario,479062.0,446605.277,6.1541,17.6249,0.3492,3.7242,3.3236,2.8305,5.1466,8.4067,-2.7646,-23.9287,-0.1701,-0.9653,True,False,"expuesta, sin presión reciente"
+467,"Menudeo de ferretería, tlapalería y vidrios",496846.0,530747.74,6.6413,22.1907,0.2993,2.8631,4.3751,2.2662,2.5902,4.1456,-1.4183,27.5539,-0.0942,-0.4245,True,False,"expuesta, sin presión reciente"
+468,"Menudeo de vehículos, refacciones y combustibles",721158.0,2641403.144,3.3959,16.0028,0.2122,4.6629,2.1739,1.2219,4.079,4.1717,-0.0978,27.4995,-0.0033,-0.0208,False,False,"poco expuesta, sin presión"

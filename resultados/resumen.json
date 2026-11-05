@@ -1,0 +1,44 @@
+{
+ "mediana_abs_salarios_1pct_subsectores": 0.22410565193565926,
+ "menudeo": {
+  "mercancias_pct": 67.994,
+  "consumo_intermedio_pct": 7.912,
+  "remuneraciones_pct": 5.596,
+  "excedente_pct": 18.498,
+  "abs_salarios_1pct": 0.303,
+  "abs_mercancias_1pct": 3.676
+ },
+ "mayoreo": {
+  "mercancias_pct": 71.18,
+  "consumo_intermedio_pct": 7.869,
+  "remuneraciones_pct": 3.298,
+  "excedente_pct": 17.654,
+  "abs_salarios_1pct": 0.187,
+  "abs_mercancias_1pct": 4.032
+ },
+ "remuneraciones_pct_2019": {
+  "43": 2.354,
+  "46": 3.041
+ },
+ "mas_expuesto_salarios": [
+  "Menudeo de salud y cuidado personal",
+  0.5292950648454977
+ ],
+ "menos_expuesto_salarios": [
+  "Menudeo de abarrotes, alimentos y bebidas",
+  0.15507655494456524
+ ],
+ "cuadrantes": {
+  "poco expuesta, sin presión": 4,
+  "expuesta, sin presión reciente": 4,
+  "poco expuesta, con presión": 3,
+  "expuesta y con presión": 3
+ },
+ "traspaso_bienes_6m": 0.5569,
+ "traspaso_bienes_12m": 0.8996,
+ "traspaso_bienes_6m_ic90": [
+  0.2494,
+  0.7911
+ ],
+ "max_error_suma": 1.4210854715202004e-14
+}
