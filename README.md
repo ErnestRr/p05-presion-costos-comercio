@@ -1,5 +1,7 @@
 # P05. ¿Qué subsectores comerciales están más expuestos a un alza de costos?
 
+**[Ver la visualización interactiva](https://ernestrr.github.io/p05-presion-costos-comercio/visualizaciones/presion_costos.html)**
+
 **Pregunta empresarial.** Cuando suben los salarios o los costos de mercancías, ¿qué parte del excedente de cada subsector comercial absorbería el aumento si no se traslada al precio, y dónde coincide esa exposición con presión reciente?
 
 **Enfoque.** Complementa el análisis de ritmos de precios (INPP frente a INPC) y de salarios (EMEC) con la **estructura de costos** de cada subsector (Censos Económicos): pasa de porcentajes de cambio a puntos del ingreso y a la parte del excedente afectada.
@@ -43,5 +45,5 @@ python src/graficar.py     # visualizaciones/presion_costos.html, a partir de re
 
 ## Contenido
 - `resultados/`: tablas de estructura de costos, exposición por subsector y estrato, y resumen.
-- `visualizaciones/presion_costos.html`: gráficas interactivas.
+- [`visualizaciones/presion_costos.html`](https://ernestrr.github.io/p05-presion-costos-comercio/visualizaciones/presion_costos.html): gráficas interactivas.
 - `src/`: cálculo, gráficas y verificación.
